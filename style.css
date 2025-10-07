@@ -1,0 +1,21 @@
+#sidebarMenu ul li:hover {
+  background-color: #008a8c14;
+}
+
+#invite{
+  border-radius: 200px;
+}
+
+.corner{
+  border-radius: 20px;
+}
+
+.form-control::placeholder{
+  color: white;
+}
+.input-group{
+  background-color: #5663639a;
+  padding: 6px;
+  border:none;
+  outline: none;
+}
